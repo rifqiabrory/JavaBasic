@@ -8,6 +8,8 @@ public class ListArrayList {
         List mempunyai index berdasarkan urutan objek yang dimasukkan ke dalam List.
         Objek di dalam List bisa duplikat artinya objek yang sama bisa dimasukkan beberapa kali ke dalam List dan akan mempunyai index yang berbeda.
         Objek dikatakan sama jika dibandingkan menggunakan method equals() menghasilkan nilai true
+        
+        Collection > List > ArrayList
     */
     public static void main(String[] args) {
         // untuk melihat hirarki dari sub-class interface Collection
